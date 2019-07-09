@@ -1,0 +1,196 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="greefoodstrading.com.pe" resolutions="1x" timestamp="1562714566255">
+  <folder name="css">
+    <file name="site_global.css" crc="91339533"/>
+    <file name="master_a-p_g_-maestra.css" crc="3993464041" ref="contacto:productos:nosotros:index"/>
+    <file name="contacto.css" crc="4200117071" ref="contacto"/>
+    <file name="productos.css" crc="4047702898" ref="productos"/>
+    <file name="nosotros.css" crc="93111940" ref="nosotros"/>
+    <file name="index.css" crc="142702364" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="poppins-bold.woff" crc="33472148"/>
+    <file name="poppins-bold.eot" crc="3950271175"/>
+    <file name="poppins.svg" crc="134666602"/>
+    <file name="aleo-bold-webfont.woff" crc="3803480958"/>
+    <file name="aleo-bold-webfont.eot" crc="378622470"/>
+    <file name="aleo-bold-webfont.svg" crc="3936977804"/>
+    <file name="aleo-regular-webfont.woff" crc="3903337358"/>
+    <file name="aleo-regular-webfont.eot" crc="303511978"/>
+    <file name="aleo-regular-webfont.svg" crc="3925563128"/>
+    <file name="poppins-light.woff" crc="3867241023"/>
+    <file name="poppins-light.eot" crc="517033531"/>
+    <file name="poppins-light.svg" crc="93111290"/>
+    <file name="poppins-regular.woff" crc="3768624378"/>
+    <file name="poppins-regular.eot" crc="134774066"/>
+    <file name="poppins-regular.svg" crc="4192007387"/>
+    <file name="aleo-light-webfont.woff" crc="48059231"/>
+    <file name="aleo-light-webfont.eot" crc="476305028"/>
+    <file name="aleo-light-webfont.svg" crc="74152751"/>
+    <file name="rajdhani-regular-webfont.woff" crc="3870591456"/>
+    <file name="rajdhani-medium-webfont1.eot" crc="3850489693"/>
+    <file name="rajdhani-medium-webfont1.svg" crc="241483634"/>
+    <file name="rajdhani-bold-webfont.woff" crc="405725379"/>
+    <file name="rajdhani-bold-webfont.eot" crc="3813653890"/>
+    <file name="rajdhani-bold-webfont.svg" crc="160272800"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:nosotros:contacto:productos"/>
+    <file name="museutils.js" crc="3803043152" ref="index:nosotros:contacto:productos"/>
+    <file name="whatinput.js" crc="86476730" ref="index:nosotros:contacto:productos"/>
+    <file name="museconfig.js" crc="380897831" ref="index:nosotros:contacto:productos"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:nosotros:contacto:productos"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:nosotros:contacto:productos"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:nosotros:contacto:productos"/>
+    <file name="webpro.js" crc="242022427" ref="index:contacto:productos"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index:productos"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index:productos"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index:productos"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:nosotros:contacto:productos"/>
+    <file name="require.js" crc="4157109226" ref="index:nosotros:contacto:productos"/>
+    <file name="form_check.php" crc="147359589" ref="contacto"/>
+    <file name="form_throttle.php" crc="93986428" ref="contacto"/>
+    <file name="form_process.php" crc="3851993751" ref="contacto"/>
+    <file name="form-u3162.php" crc="287696498" ref="contacto"/>
+  </folder>
+  <folder name="images">
+    <file name="logo 2.png" crc="3998501673" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icono_celular.svg" crc="4043924419" ref="index"/>
+    <file name="icono_celular_poster_u2389.png" crc="128130731" ref="index"/>
+    <file name="icono_mail.svg" crc="311456751" ref="index"/>
+    <file name="icono_mail_poster_u2318.png" crc="506490627" ref="index"/>
+    <file name="lake-min.jpg" crc="126161196" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:contacto:productos"/>
+    <file name="loading.gif" crc="3815509949" ref="index:productos"/>
+    <file name="logo 1 - copia.png" crc="375919844" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sin título-1.png" crc="289744517" ref="index:nosotros:productos">
+      <caption webpage="index" alt=""/>
+      <caption webpage="productos" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="naturalife-background-1.jpg" crc="4194494343" ref="index:contacto:productos">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="plant.jpg" crc="320636036" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="svgexport-1.svg" crc="4134308524" ref="index"/>
+    <file name="svgexport-1_poster_u3048.png" crc="66308002" ref="index"/>
+    <file name="certificado euro hoja.gif" crc="248376847" ref="index:productos">
+      <caption webpage="index" alt=""/>
+      <caption webpage="productos" alt=""/>
+    </file>
+    <file name="certificadousda.gif" crc="3949732302" ref="index:productos">
+      <caption webpage="index" alt=""/>
+      <caption webpage="productos" alt=""/>
+    </file>
+    <file name="leaves_left.png" crc="108155540" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="leaves_right.png" crc="272058772" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="grecia cuadros cabrera - gerente general en los sembrios de maca-u3089-fr.jpg" crc="3919114343" ref="index"/>
+    <file name="producto 4 amaranth powder.jpg" crc="55224814" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="producto 2 banana powder.jpg" crc="33070490" seo="true" ref="index:productos">
+      <caption webpage="index" alt=""/>
+      <caption webpage="productos" alt=""/>
+      <caption webpage="productos" alt=""/>
+    </file>
+    <file name="producto 3 cacao beans.jpg" crc="41426995" seo="true" ref="index:productos">
+      <caption webpage="index" alt=""/>
+      <caption webpage="productos" alt=""/>
+      <caption webpage="productos" alt=""/>
+    </file>
+    <file name="facebook.png" crc="73606250" ref="index:contacto">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="instagram.png" crc="131486420" ref="index:contacto">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="twitter.png" crc="451889019" ref="index:contacto">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="asdasdsad.jpg" crc="4017815500" ref="nosotros:productos">
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="naturalife-background-1-u1941-fr.jpg" crc="4051628249" ref="nosotros"/>
+    <file name="20190425_103448.jpg" crc="4120097378" ref="nosotros">
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="grecia cuadros cabrera - gerente general en los sembrios de maca.jpg" crc="530028463" ref="nosotros">
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="green-background.jpg" crc="323328419" ref="nosotros:productos"/>
+    <file name="grecia cuadros cabrera - gerente general en los sembrios de maca2.jpg" crc="25547291" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="icono_telefono_poster_u4552.png" crc="4285344714" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="icono_mail_poster_u4560.png" crc="222773243" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="icono wbe.png" crc="3772205277" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="producto 4 amaranth powder2.jpg" crc="50218587" seo="true" ref="productos">
+      <caption webpage="productos" alt=""/>
+      <caption webpage="productos" alt=""/>
+    </file>
+    <file name="producto 1 gelatinized maca.jpg" crc="3758578594" seo="true" ref="productos">
+      <caption webpage="productos" alt=""/>
+      <caption webpage="productos" alt=""/>
+    </file>
+    <file name="producto 5 gelatinized quinoa.jpg" crc="4265271767" seo="true" ref="productos">
+      <caption webpage="productos" alt=""/>
+      <caption webpage="productos" alt=""/>
+    </file>
+    <file name="producto 6algarroba powder.jpg" crc="216803449" seo="true" ref="productos">
+      <caption webpage="productos" alt=""/>
+      <caption webpage="productos" alt=""/>
+    </file>
+    <file name="producto 7 maca dried-crop-u3855.jpg" crc="4179325184" seo="true" ref="productos">
+      <caption webpage="productos" alt=""/>
+    </file>
+    <file name="producto 7 maca dried.jpg" crc="3811722713" seo="true" ref="productos">
+      <caption webpage="productos" alt=""/>
+    </file>
+    <file name="producto 4 amaranth powder-crop-u4357.jpg" crc="75700491" seo="true" ref="productos">
+      <caption webpage="productos" alt=""/>
+    </file>
+    <file name="producto 3 cacao beans-crop-u4435.jpg" crc="165201893" seo="true" ref="productos">
+      <caption webpage="productos" alt=""/>
+    </file>
+    <file name="producto 7 maca dried-crop-u4516.jpg" crc="3854718916" seo="true" ref="productos">
+      <caption webpage="productos" alt=""/>
+    </file>
+    <file name="producto 5 gelatinized quinoa-crop-u4461.jpg" crc="3849255586" seo="true" ref="productos">
+      <caption webpage="productos" alt=""/>
+    </file>
+    <file name="producto 1 gelatinized maca-crop-u4383.jpg" crc="3860809862" seo="true" ref="productos">
+      <caption webpage="productos" alt=""/>
+    </file>
+    <file name="producto 6algarroba powder-crop-u4487.jpg" crc="319328393" seo="true" ref="productos">
+      <caption webpage="productos" alt=""/>
+    </file>
+    <file name="producto 2 banana powder-crop-u4409.jpg" crc="502388977" seo="true" ref="productos">
+      <caption webpage="productos" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3907641358" seo="true" mt="1562714456404" redirect="true"/>
+  <file name="nosotros.html" crc="4148869945" seo="true" mt="1562714456404" redirect="true"/>
+  <file name="contacto.html" crc="3827987216" seo="true" mt="1562714456404" redirect="true"/>
+  <file name="productos.html" crc="3781089173" seo="true" mt="1562714456404" redirect="true"/>
+</manifest>
