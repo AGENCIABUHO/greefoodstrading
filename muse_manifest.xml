@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="greefoodstrading.com.pe" resolutions="1x" timestamp="1562968470477">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="crearecursoshumanos.com.pe" resolutions="1x" timestamp="1562969549716">
   <folder name="css">
     <file name="site_global.css" crc="91339533"/>
     <file name="master_ingles.css" crc="95475467" ref="home:about-us:products:contact"/>
@@ -13,8 +13,8 @@
     <file name="nomq_productos.css" crc="148779450" ref="productos"/>
     <file name="nosotros.css" crc="288203374" ref="nosotros"/>
     <file name="nomq_nosotros.css" crc="103875275" ref="nosotros"/>
-    <file name="contacto.css" crc="3831064185" ref="contacto"/>
-    <file name="nomq_contacto.css" crc="236628731" ref="contacto"/>
+    <file name="contacto.css" crc="119095305" ref="contacto"/>
+    <file name="nomq_contacto.css" crc="100692904" ref="contacto"/>
     <file name="index.css" crc="368693747" ref="index"/>
     <file name="nomq_index.css" crc="3759086015" ref="index"/>
     <file name="products.css" crc="4172166548" ref="products"/>
@@ -699,6 +699,7 @@
     <file name="grecia cuadros cabrera - gerente general en los sembrios de maca-u3353-fr6.jpg" crc="397567952" ref="contacto:contact"/>
     <file name="grecia cuadros cabrera - gerente general en los sembrios de maca-u3353-fr7.jpg" crc="318470507" ref="contacto:contact"/>
     <file name="grecia cuadros cabrera - gerente general en los sembrios de maca-u3353-fr8.jpg" crc="66628416" ref="contacto:contact"/>
+    <file name="naturalife-background-1-u3155-fr.jpg" crc="4089600407" ref="contacto"/>
     <file name="grecia cuadros cabrera - gerente general en los sembrios de maca-u3353-fr9.jpg" crc="180305821" ref="contacto:contact"/>
     <file name="producto 1 gelatinized maca.jpg" crc="3758578594" seo="true" ref="productos:products">
       <caption webpage="productos" alt=""/>
@@ -1573,12 +1574,12 @@
       <caption webpage="products" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3995003520" seo="true" mt="1562967654467" redirect="true"/>
-  <file name="nosotros.html" crc="30525126" seo="true" mt="1562967543585" redirect="true"/>
-  <file name="contacto.html" crc="3816655280" seo="true" mt="1562967543585" redirect="true"/>
+  <file name="index.html" crc="248198027" seo="true" mt="1562967654467" redirect="true"/>
+  <file name="nosotros.html" crc="346160015" seo="true" mt="1562967543585" redirect="true"/>
+  <file name="contacto.html" crc="4157809349" seo="true" mt="1562967543585" redirect="true"/>
   <file name="productos.html" crc="85383612" seo="true" mt="1562967543585" redirect="true"/>
-  <file name="home.html" crc="3776028872" seo="true" mt="1562968207876" redirect="true"/>
-  <file name="about-us.html" crc="4208165126" seo="true" mt="1562968211025" redirect="true"/>
+  <file name="home.html" crc="3873577076" seo="true" mt="1562968207876" redirect="true"/>
+  <file name="about-us.html" crc="417597826" seo="true" mt="1562968211025" redirect="true"/>
   <file name="products.html" crc="465713145" seo="true" mt="1562968212985" redirect="true"/>
   <file name="contact.html" crc="155978296" seo="true" mt="1562968216005" redirect="true"/>
 </manifest>
